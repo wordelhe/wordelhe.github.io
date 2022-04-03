@@ -319,7 +319,7 @@ function shareResults() {
         shareResult = shareResult + result + "\n";
 
     }
-    shareResult = shareResult + "\n" + "וורדל בעברית:" + "\n" + "https://yairhasfari.github.io/wordale";
+    shareResult = shareResult + "\n" + "וורדל קבוצה התשסב בעברית:" + "\n" + "https://wordelhe.github.io/";
     navigator.clipboard.writeText(shareResult);
     // let shareButton = "<input id=\"shareButton\" onclick=\"shareResults()\" value=\"תוצאות הועתקו ללוח\">"
     // document.getElementById('notify2').innerHTML = shareButton;
